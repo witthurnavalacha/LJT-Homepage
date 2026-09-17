@@ -30,10 +30,10 @@ I received the Zhiyuan Honor Scholarship at Shanghai Jiao Tong University.
 ## Publications
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv)  
-   *First author: Junteng Liu. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.* Available on [Arxiv](https://arxiv.org/abs/2506.12380).
+   *First author: Junteng Liu. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.*
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv)  
-   *First author: Junteng Liu. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.* Available on [Arxiv](https://arxiv.org/abs/2503.14661).
+   *First author: Junteng Liu. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.*
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024)  
    *First author: Junteng Liu. Co-authors: Shiqi Chen, Yu Cheng, Junxian He.*
